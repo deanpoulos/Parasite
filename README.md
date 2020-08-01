@@ -16,7 +16,7 @@ The current implementation has some ethical issues- reselling copyrighted images
 
 ## Todo
  - [x] Setup virtualenv to avoid Lyndon's suffering.
- - [ ] Learn basic Selenium concepts using Wikipedia project.
+ - [x] Learn basic Selenium concepts using Wikipedia project.
  - [ ] Setup Selenium in WSL using https://github.com/Microsoft/WSL/issues/648#issuecomment-324562271.
  - [ ] Setup Selenium browser to download a single image.
  - [ ] Automate the continuous scraping of popular images.

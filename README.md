@@ -26,3 +26,7 @@ The current implementation has some ethical issues- reselling copyrighted images
 
 ## Ideas
  - Could be re-structured to re-uploading OnlyFans content.
+
+ ## Helpful Links
+  - https://levelup.gitconnected.com/web-scraping-with-selenium-in-python-8fde2f0fd559
+  - https://towardsdatascience.com/web-scraping-using-selenium-836de8677ae5

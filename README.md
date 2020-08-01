@@ -10,10 +10,12 @@ The current implementation has some ethical issues- reselling copyrighted images
  - Restructuring the implementation to some other medium which is ethically profitable.
 
 ## Guide
- - Nothing so far!
+ - Create a virtual environment using `virtualenv venv`.
+ - Activate the environment using `./venv/bin/activate`.
+ - Install requirements using `pip3 install -r requirements.txt`.
 
 ## Todo
- - [ ] Setup virtualenv to avoid Lyndon's suffering.
+ - [x] Setup virtualenv to avoid Lyndon's suffering.
  - [ ] Setup Selenium browser to download a single image.
  - [ ] Automate the continuous scraping of popular images.
  - [ ] Automate the upload of a single RedBubble product.

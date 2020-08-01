@@ -13,11 +13,12 @@ The current implementation has some ethical issues- reselling copyrighted images
  - Nothing so far!
 
 ## Todo
- - Setup Selenium browser to download a single image.
- - Automate the continuous scraping of popular images.
- - Automate the upload of a single RedBubble product.
- - Automate the continuous upload of scraped images.
- - Automate the process of creating new RedBubble accounts.
+ - [ ] Setup virtualenv to avoid Lyndon's suffering.
+ - [ ] Setup Selenium browser to download a single image.
+ - [ ] Automate the continuous scraping of popular images.
+ - [ ] Automate the upload of a single RedBubble product.
+ - [ ] Automate the continuous upload of scraped images.
+ - [ ] Automate the process of creating new RedBubble accounts.
 
 ## Ideas
  - Could be re-structured to re-uploading OnlyFans content.

@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 driver = webdriver.Chrome()
 driver.get('https://wikipedia.com')
 
-# Change language to Latina
+# Change language to Latin
 search_language = driver.find_element_by_id('searchLanguage')
 print(search_language.text)
 Select(search_language).select_by_visible_text('Latina')
@@ -25,8 +25,9 @@ search_button.click()
 print("Current URL: " + driver.current_url)
 
 # Save some text from the page
-paragraphs = content.find_elements_by_tag_name('p')
+paragraphs = driver.find_elements_by_tag_name('p')
 intro_paragraph_text = paragraphs[4].text
+print(intro_paragraph_text)
 
 # Close the browser
 driver.quit()

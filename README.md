@@ -8,6 +8,7 @@ The current implementation has some ethical issues- reselling copyrighted images
  - Automating some way of manipulating the image to ensure "Fair Use" under copyright (if this is possible)
  - Only reselling images that are on the "Public Domain" (if this is possible)
  - Restructuring the implementation to some other medium which is ethically profitable.
+ - Scrape popular quotes and make into image for redbubble.
 
 ## Guide
  - Create a virtual environment using `virtualenv venv`.
@@ -17,8 +18,8 @@ The current implementation has some ethical issues- reselling copyrighted images
 ## Todo
  - [x] Setup virtualenv to avoid Lyndon's suffering.
  - [x] Learn basic Selenium concepts using Wikipedia project.
- - [ ] Setup Selenium in WSL using https://github.com/Microsoft/WSL/issues/648#issuecomment-324562271.
- - [ ] Setup Selenium browser to download a single image.
+ - [x] Setup Selenium in WSL using https://github.com/Microsoft/WSL/issues/648#issuecomment-324562271.
+ - [x] Setup Selenium browser to download a single image.
  - [ ] Automate the continuous scraping of popular images.
  - [ ] Automate the upload of a single RedBubble product.
  - [ ] Automate the continuous upload of scraped images.

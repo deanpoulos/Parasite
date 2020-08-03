@@ -14,6 +14,7 @@ The current implementation has some ethical issues- reselling copyrighted images
  - Create a virtual environment using `virtualenv venv`.
  - Activate the environment using `./venv/bin/activate`.
  - Install requirements using `pip3 install -r requirements.txt`.
+ - Install ChromeDriver and add to PATH.
 
 ## Todo
  - [x] Setup virtualenv to avoid Lyndon's suffering.
